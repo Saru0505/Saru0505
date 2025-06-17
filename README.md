@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Kay Baumann
+# 👋 Hi, ich bin Sarujan Uthayachandran
 
 > 💻 Informatikmittelschüler | 💡 Applikationsentwickler in Ausbildung | 🔍 Auf der Suche nach einem spannenden Praktikum im Sommer 2025
 
