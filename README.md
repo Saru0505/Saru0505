@@ -6,7 +6,7 @@
 
 ## 🚀 Über mich
 
-Ich bin ein motivierter und engagierter Informatikmittelschüler aus Luzern mit über 2 Jahren Erfahrung in der Softwareentwicklung. Mein Fokus liegt auf **Full-Stack Webentwicklung** mit modernen Technologien wie **Vue.js, Node.js, MongoDB** und **Docker** sowie auf der Entwicklung von **Desktop-Apps mit C# und WPF**.  
+Ich bin ein motivierter und engagierter Informatikmittelschüler aus Luzern mit über 2 Jahren Erfahrung in der Softwareentwicklung. Mein Schwerpunkt liegt auf der **Entwicklung moderner Softwarelösungen** – von **Webanwendungen (Vue.js, Node.js, MongoDB, Docker)** bis hin zu **Desktop-Applikationen mit C# und WPF**.  
 Aktuell suche ich ein **praktikumsorientiertes Umfeld**, in dem ich meine Fähigkeiten weiterentwickeln und gleichzeitig einen echten Mehrwert bieten kann.
 
 ---
@@ -49,7 +49,6 @@ Eine WPF-Desktop-App zur Verwaltung und Favorisierung von Fahrradrouten in der S
 Verwaltungssystem für Hotels mit Login-Funktion, Gastverwaltung, Buchungen und Abrechnungen.  
 🛠 C# · WPF · SQLite · CRUD · Benutzerrollen · UI/UX
 
-
 ---
 
 ## 📈 Ziele
@@ -69,4 +68,3 @@ Verwaltungssystem für Hotels mit Login-Funktion, Gastverwaltung, Buchungen und 
 ---
 
 > Ich freue mich über jede Möglichkeit, mich in einem IT-Team einzubringen. Offen für Praktika ab Sommer 2025!
-
