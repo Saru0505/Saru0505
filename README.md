@@ -46,8 +46,9 @@ Eine WPF-Desktop-App zur Verwaltung und Favorisierung von Fahrradrouten in der S
 🛠 C# · WPF · SQLite · MVVM · UI-Design · Dark Mode
 
 ### 🏨 [Hotelverwaltung](https://github.com/Saru0505/IPT_4.1_Hotelverwaltung)  
-Verwaltungssystem für Hotels mit Login-Funktion, Gastverwaltung, Buchungen und Abrechnungen.  
-🛠 C# · WPF · SQLite · CRUD · Benutzerrollen · UI/UX
+Ein webbasiertes Hotelverwaltungssystem mit Login, Gästeverwaltung, Buchungssystem und Mitarbeiterübersicht, umgesetzt als Single-Page-Application mit Vue.js.  
+🛠 Vue.js · JavaScript · Vite · HTML · CSS · Routing · Komponentenbasiertes UI
+
 
 ---
 
