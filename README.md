@@ -68,4 +68,4 @@ Ein webbasiertes Hotelverwaltungssystem mit Login, Gästeverwaltung, Buchungssys
 
 ---
 
-> Ich freue mich über jede Möglichkeit, mich in einem IT-Team einzubringen. Offen für Praktika ab Sommer 2025!
+> Ich freue mich über jede Möglichkeit, mich in einem IT-Team einzubringen. Offen für Praktika ab Sommer 2026!
